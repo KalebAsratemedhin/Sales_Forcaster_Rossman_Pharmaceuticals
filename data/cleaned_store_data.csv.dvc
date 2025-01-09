@@ -1,0 +1,5 @@
+outs:
+- md5: 4f9bbb7b53487458a972f968b3288d59
+  size: 57847
+  hash: md5
+  path: cleaned_store_data.csv
