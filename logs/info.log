@@ -74,3 +74,65 @@
 2025-01-09 11:11:30,255 - INFO - Starting univariate analysis for column: Promo
 2025-01-09 11:11:30,773 - INFO - Completed univariate analysis for column: Promo
 2025-01-09 11:11:30,773 - INFO - Completed univariate analysis for column: Promo
+2025-01-09 11:18:43,092 - INFO - Loading data from ../../data/cleaned_store_data.csv
+2025-01-09 11:18:43,092 - INFO - Loading data from ../../data/cleaned_store_data.csv
+2025-01-09 11:18:52,765 - INFO - Loading data from ../data/cleaned_store_data.csv
+2025-01-09 11:18:52,765 - INFO - Loading data from ../data/cleaned_store_data.csv
+2025-01-09 11:18:52,774 - INFO - Data loaded successfully
+2025-01-09 11:18:52,774 - INFO - Data loaded successfully
+2025-01-09 11:18:52,774 - INFO - Loading data from ../data/train.csv
+2025-01-09 11:18:52,774 - INFO - Loading data from ../data/train.csv
+2025-01-09 11:18:55,212 - INFO - Data loaded successfully
+2025-01-09 11:18:55,212 - INFO - Data loaded successfully
+2025-01-09 11:19:21,179 - INFO - Generating column summary
+2025-01-09 11:19:21,179 - INFO - Generating column summary
+2025-01-09 11:19:22,857 - INFO - Column summary generated successfully
+2025-01-09 11:19:22,857 - INFO - Column summary generated successfully
+2025-01-09 11:23:01,858 - INFO - Starting correlation analysis between Sales and Customers
+2025-01-09 11:23:01,858 - INFO - Starting correlation analysis between Sales and Customers
+2025-01-09 11:23:01,902 - INFO - Correlation coefficient between Sales and Customers: 0.8947
+2025-01-09 11:23:01,902 - INFO - Correlation coefficient between Sales and Customers: 0.8947
+2025-01-09 11:25:30,278 - INFO - Completed correlation analysis between Sales and Customers
+2025-01-09 11:25:30,278 - INFO - Completed correlation analysis between Sales and Customers
+2025-01-09 11:25:31,289 - INFO - Starting analysis of promotional effects on sales
+2025-01-09 11:25:31,289 - INFO - Starting analysis of promotional effects on sales
+2025-01-09 11:25:31,467 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-09 11:25:31,467 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-09 11:25:31,504 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-09 11:25:31,504 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-09 11:25:31,677 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-09 11:25:31,677 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-09 11:25:31,685 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-09 11:25:31,685 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-09 11:25:31,854 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-09 11:25:31,854 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-09 11:25:31,861 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-09 11:25:31,861 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-09 11:25:31,969 - INFO - Completed analysis of promotional effects on sales
+2025-01-09 11:25:31,969 - INFO - Completed analysis of promotional effects on sales
+2025-01-09 11:25:32,369 - INFO - Analyzing customer behavior based on store status (Open/Closed)
+2025-01-09 11:25:32,369 - INFO - Analyzing customer behavior based on store status (Open/Closed)
+2025-01-09 11:25:32,451 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-09 11:25:32,451 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-09 11:25:32,452 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-09 11:25:32,452 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-09 11:25:32,463 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-09 11:25:32,463 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-09 11:25:32,464 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-09 11:25:32,464 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-09 11:25:32,680 - INFO - Completed analysis of customer behavior
+2025-01-09 11:25:32,680 - INFO - Completed analysis of customer behavior
+2025-01-09 11:25:32,690 - INFO - Analyzing the effect of assortment type on sales
+2025-01-09 11:25:32,690 - INFO - Analyzing the effect of assortment type on sales
+2025-01-09 11:25:32,875 - INFO - Completed analysis of assortment effect on sales
+2025-01-09 11:25:32,875 - INFO - Completed analysis of assortment effect on sales
+2025-01-09 11:25:33,011 - INFO - Starting analysis of competition distance effect on sales
+2025-01-09 11:25:33,011 - INFO - Starting analysis of competition distance effect on sales
+2025-01-09 11:25:33,132 - INFO - Sales aggregated by distance category
+2025-01-09 11:25:33,132 - INFO - Sales aggregated by distance category
+2025-01-09 11:25:33,501 - INFO - Starting correlation analysis between Sales and CompetitionDistance
+2025-01-09 11:25:33,501 - INFO - Starting correlation analysis between Sales and CompetitionDistance
+2025-01-09 11:25:33,525 - INFO - Correlation coefficient between Sales and CompetitionDistance: -0.0192
+2025-01-09 11:25:33,525 - INFO - Correlation coefficient between Sales and CompetitionDistance: -0.0192
+2025-01-09 11:27:46,955 - INFO - Completed correlation analysis between Sales and CompetitionDistance
+2025-01-09 11:27:46,955 - INFO - Completed correlation analysis between Sales and CompetitionDistance
