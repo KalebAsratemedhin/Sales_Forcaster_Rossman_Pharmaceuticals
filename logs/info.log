@@ -1,0 +1,24 @@
+2025-01-09 10:55:12,687 - INFO - Loading data from ../../data/train.csv
+2025-01-09 10:55:12,687 - INFO - Loading data from ../../data/train.csv
+2025-01-09 10:55:14,995 - INFO - Data loaded successfully
+2025-01-09 10:55:14,995 - INFO - Data loaded successfully
+2025-01-09 10:56:43,316 - INFO - Generating column summary
+2025-01-09 10:56:43,316 - INFO - Generating column summary
+2025-01-09 10:56:44,480 - INFO - Column summary generated successfully
+2025-01-09 10:56:44,480 - INFO - Column summary generated successfully
+2025-01-09 10:57:22,826 - INFO - Starting univariate analysis for column: Sales
+2025-01-09 10:57:22,826 - INFO - Starting univariate analysis for column: Sales
+2025-01-09 10:57:31,836 - INFO - Completed univariate analysis for column: Sales
+2025-01-09 10:57:31,836 - INFO - Completed univariate analysis for column: Sales
+2025-01-09 10:57:31,837 - INFO - Starting univariate analysis for column: Customers
+2025-01-09 10:57:31,837 - INFO - Starting univariate analysis for column: Customers
+2025-01-09 10:57:38,793 - INFO - Completed univariate analysis for column: Customers
+2025-01-09 10:57:38,793 - INFO - Completed univariate analysis for column: Customers
+2025-01-09 10:57:38,793 - INFO - Starting univariate analysis for column: Store
+2025-01-09 10:57:38,793 - INFO - Starting univariate analysis for column: Store
+2025-01-09 10:57:45,555 - INFO - Completed univariate analysis for column: Store
+2025-01-09 10:57:45,555 - INFO - Completed univariate analysis for column: Store
+2025-01-09 10:57:45,555 - INFO - Starting univariate analysis for column: Promo
+2025-01-09 10:57:45,555 - INFO - Starting univariate analysis for column: Promo
+2025-01-09 10:57:51,255 - INFO - Completed univariate analysis for column: Promo
+2025-01-09 10:57:51,255 - INFO - Completed univariate analysis for column: Promo
