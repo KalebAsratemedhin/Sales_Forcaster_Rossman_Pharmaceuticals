@@ -136,3 +136,35 @@
 2025-01-09 11:25:33,525 - INFO - Correlation coefficient between Sales and CompetitionDistance: -0.0192
 2025-01-09 11:27:46,955 - INFO - Completed correlation analysis between Sales and CompetitionDistance
 2025-01-09 11:27:46,955 - INFO - Completed correlation analysis between Sales and CompetitionDistance
+2025-01-09 13:19:43,559 - INFO - Generating column summary
+2025-01-09 13:19:43,559 - INFO - Generating column summary
+2025-01-09 13:19:44,934 - INFO - Column summary generated successfully
+2025-01-09 13:19:44,934 - INFO - Column summary generated successfully
+2025-01-09 13:32:31,060 - INFO - Generating column summary
+2025-01-09 13:32:31,060 - INFO - Generating column summary
+2025-01-09 13:32:31,867 - INFO - Column summary generated successfully
+2025-01-09 13:32:31,867 - INFO - Column summary generated successfully
+2025-01-09 14:27:34,930 - INFO - Generating column summary
+2025-01-09 14:27:34,930 - INFO - Generating column summary
+2025-01-09 14:27:36,201 - INFO - Column summary generated successfully
+2025-01-09 14:27:36,201 - INFO - Column summary generated successfully
+2025-01-09 15:02:47,733 - INFO - Saving DataFrame to ../../data/final_test.csv
+2025-01-09 15:02:47,733 - INFO - Saving DataFrame to ../../data/final_test.csv
+2025-01-09 15:02:51,762 - INFO - DataFrame saved to ../../data/final_test.csv
+2025-01-09 15:02:51,762 - INFO - DataFrame saved to ../../data/final_test.csv
+2025-01-09 15:02:51,771 - INFO - Saving DataFrame to ../../data/train_final.csv
+2025-01-09 15:02:51,771 - INFO - Saving DataFrame to ../../data/train_final.csv
+2025-01-09 15:04:46,911 - INFO - DataFrame saved to ../../data/train_final.csv
+2025-01-09 15:04:46,911 - INFO - DataFrame saved to ../../data/train_final.csv
+2025-01-09 15:04:46,993 - INFO - Generating column summary
+2025-01-09 15:04:46,993 - INFO - Generating column summary
+2025-01-09 15:04:48,642 - INFO - Column summary generated successfully
+2025-01-09 15:04:48,642 - INFO - Column summary generated successfully
+2025-01-09 15:06:24,811 - INFO - Saving DataFrame to ../../data/../data/final_test.csv
+2025-01-09 15:06:24,811 - INFO - Saving DataFrame to ../../data/../data/final_test.csv
+2025-01-09 15:06:25,257 - INFO - DataFrame saved to ../../data/../data/final_test.csv
+2025-01-09 15:06:25,257 - INFO - DataFrame saved to ../../data/../data/final_test.csv
+2025-01-09 15:07:21,827 - INFO - Saving DataFrame to ../../data/../data/train_final.csv
+2025-01-09 15:07:21,827 - INFO - Saving DataFrame to ../../data/../data/train_final.csv
+2025-01-09 15:07:27,884 - INFO - DataFrame saved to ../../data/../data/train_final.csv
+2025-01-09 15:07:27,884 - INFO - DataFrame saved to ../../data/../data/train_final.csv
