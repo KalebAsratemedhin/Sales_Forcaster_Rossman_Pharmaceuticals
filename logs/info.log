@@ -46,3 +46,31 @@
 2025-01-09 11:06:17,260 - INFO - Saving DataFrame to ../../data/cleaned_store_data.csv
 2025-01-09 11:06:17,301 - INFO - DataFrame saved to ../../data/cleaned_store_data.csv
 2025-01-09 11:06:17,301 - INFO - DataFrame saved to ../../data/cleaned_store_data.csv
+2025-01-09 11:09:29,413 - INFO - Loading data from ../../data/test.csv
+2025-01-09 11:09:29,413 - INFO - Loading data from ../../data/test.csv
+2025-01-09 11:09:30,119 - INFO - Data loaded successfully
+2025-01-09 11:09:30,119 - INFO - Data loaded successfully
+2025-01-09 11:10:02,283 - INFO - Loading data from ../../data/test.csv
+2025-01-09 11:10:02,283 - INFO - Loading data from ../../data/test.csv
+2025-01-09 11:10:02,342 - INFO - Data loaded successfully
+2025-01-09 11:10:02,342 - INFO - Data loaded successfully
+2025-01-09 11:10:03,463 - INFO - Generating column summary
+2025-01-09 11:10:03,463 - INFO - Generating column summary
+2025-01-09 11:10:03,566 - INFO - Column summary generated successfully
+2025-01-09 11:10:03,566 - INFO - Column summary generated successfully
+2025-01-09 11:10:33,256 - INFO - Imputing missing values in column: Open using method: mode
+2025-01-09 11:10:33,256 - INFO - Imputing missing values in column: Open using method: mode
+2025-01-09 11:10:33,259 - INFO - Missing values imputed in column: Open
+2025-01-09 11:10:33,259 - INFO - Missing values imputed in column: Open
+2025-01-09 11:11:01,159 - INFO - Saving DataFrame to ../../data/cleaned_test_data.csv
+2025-01-09 11:11:01,159 - INFO - Saving DataFrame to ../../data/cleaned_test_data.csv
+2025-01-09 11:11:01,341 - INFO - DataFrame saved to ../../data/cleaned_test_data.csv
+2025-01-09 11:11:01,341 - INFO - DataFrame saved to ../../data/cleaned_test_data.csv
+2025-01-09 11:11:29,750 - INFO - Starting univariate analysis for column: Store
+2025-01-09 11:11:29,750 - INFO - Starting univariate analysis for column: Store
+2025-01-09 11:11:30,248 - INFO - Completed univariate analysis for column: Store
+2025-01-09 11:11:30,248 - INFO - Completed univariate analysis for column: Store
+2025-01-09 11:11:30,255 - INFO - Starting univariate analysis for column: Promo
+2025-01-09 11:11:30,255 - INFO - Starting univariate analysis for column: Promo
+2025-01-09 11:11:30,773 - INFO - Completed univariate analysis for column: Promo
+2025-01-09 11:11:30,773 - INFO - Completed univariate analysis for column: Promo
